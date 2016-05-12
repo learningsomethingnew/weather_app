@@ -1,0 +1,276 @@
+
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "alerts": 1
+  }
+	}
+		,"query_zone": "076",
+	"alerts": [
+		{
+		"type": "WRN",
+		"description": "Severe Thunderstorm Warning",
+		"date": "3:50 PM CDT on May 11, 2016",
+		"date_epoch": "1462999800",
+		"expires": "4:15 PM CDT on May 11, 2016",
+		"expires_epoch": "1463001300",
+		"tz_short":"CDT",
+		"tz_long":"America/Chicago",
+		"message": "\u000A...A Severe Thunderstorm Warning remains in effect until 415 PM CDT\u000Afor Wayne County...\u000A\u000AAt 349 PM CDT...a severe thunderstorm was located near Cisne...or 7\u000Amiles northwest of Fairfield...moving east at 30 mph. Numerous\u000Areports of ping pong to Golf Ball sized hail in and around Fairfield\u000Ahave occurred with this storm.\u000A\u000AHazard...Golf Ball size hail and 60 mph wind gusts. \u000A\u000ASource...radar indicated. \u000A\u000AImpact...people and animals outdoors will be injured. Expect hail \u000A damage to roofs...siding...windows...and vehicles. Expect wind \u000A damage to roofs...siding...and trees. \u000A\u000ALocations impacted include...\u000AFairfield...Wayne City...Cisne...Jeffersonville...Sims...Mill Shoals...\u000AMount Erie...Keenes...Johnsonville and Golden Gate.\u000A\u000APrecautionary/preparedness actions...\u000A\u000AFor your protection move to an interior room on the lowest floor of a\u000Abuilding.\u000A\u000A\u000ALat...Lon 3860 8815 3826 8815 3826 8870 3861 8869\u000Atime...Mot...loc 2049z 250deg 35kt 3846 8846 \u000A\u000AHail...1.75in\u000Awind...60mph\u000A \u000A\u000A\u000A\u000A",
+		"phenomena": "SV",
+		"significance": "W",
+		"ZONES": [
+		{
+		"state":"IL",
+		"ZONE":"076"
+		}
+		],
+		"StormBased": {
+		"vertices":[
+		{
+		"lat":"38.60",
+		"lon":"-88.15"
+		}
+		,
+		{
+		"lat":"38.26",
+		"lon":"-88.15"
+		}
+		,
+		{
+		"lat":"38.26",
+		"lon":"-88.70"
+		}
+		,
+		{
+		"lat":"38.61",
+		"lon":"-88.69"
+		}
+		],
+		"Vertex_count":4,
+		"stormInfo": {
+		"time_epoch": 1462999740,
+		"Motion_deg": 250,
+		"Motion_spd": 35,
+		"position_lat":38.46,
+		"position_lon":-88.46
+		}
+		}
+		}
+		,
+		{
+		"type": "SEW",
+		"description": "Severe Thunderstorm Watch",
+		"date": "3:43 PM CDT on May 11, 2016",
+		"date_epoch": "1462999380",
+		"expires": "7:00 PM CDT on May 11, 2016",
+		"expires_epoch": "1463011200",
+		"tz_short":"CDT",
+		"tz_long":"America/Chicago",
+		"message": "\u000ASevere Thunderstorm Watch 167 remains in effect until 700 PM CDT\u000Afor the following locations\u000A\u000A\u000AIL \u000A. Illinois counties included are\u000A\u000ABond Champaign Christian \u000AClark Clay Clinton \u000AColes Crawford Cumberland \u000ADe Witt Douglas Edgar \u000AEdwards Effingham Fayette \u000AFranklin Hamilton Jasper \u000AJefferson Jersey Lawrence \u000AMacon Macoupin Madison \u000AMarion Monroe Montgomery \u000AMoultrie Perry Piatt \u000ARandolph Richland St. Clair \u000AShelby Vermilion Wabash \u000AWashington Wayne white \u000A\u000A\u000A\u000A\u000A",
+		"phenomena": "SV",
+		"significance": "A",
+		"ZONES": [
+		{
+		"state":"IL",
+		"ZONE":"064"
+		}
+		,
+		{
+		"state":"IL",
+		"ZONE":"045"
+		}
+		,
+		{
+		"state":"IL",
+		"ZONE":"052"
+		}
+		,
+		{
+		"state":"IL",
+		"ZONE":"063"
+		}
+		,
+		{
+		"state":"IL",
+		"ZONE":"071"
+		}
+		,
+		{
+		"state":"IL",
+		"ZONE":"069"
+		}
+		,
+		{
+		"state":"IL",
+		"ZONE":"056"
+		}
+		,
+		{
+		"state":"IL",
+		"ZONE":"068"
+		}
+		,
+		{
+		"state":"IL",
+		"ZONE":"062"
+		}
+		,
+		{
+		"state":"IL",
+		"ZONE":"043"
+		}
+		,
+		{
+		"state":"IL",
+		"ZONE":"055"
+		}
+		,
+		{
+		"state":"IL",
+		"ZONE":"057"
+		}
+		,
+		{
+		"state":"IL",
+		"ZONE":"077"
+		}
+		,
+		{
+		"state":"IL",
+		"ZONE":"066"
+		}
+		,
+		{
+		"state":"IL",
+		"ZONE":"065"
+		}
+		,
+		{
+		"state":"IL",
+		"ZONE":"081"
+		}
+		,
+		{
+		"state":"IL",
+		"ZONE":"082"
+		}
+		,
+		{
+		"state":"IL",
+		"ZONE":"067"
+		}
+		,
+		{
+		"state":"IL",
+		"ZONE":"075"
+		}
+		,
+		{
+		"state":"IL",
+		"ZONE":"099"
+		}
+		,
+		{
+		"state":"IL",
+		"ZONE":"073"
+		}
+		,
+		{
+		"state":"IL",
+		"ZONE":"053"
+		}
+		,
+		{
+		"state":"IL",
+		"ZONE":"059"
+		}
+		,
+		{
+		"state":"IL",
+		"ZONE":"100"
+		}
+		,
+		{
+		"state":"IL",
+		"ZONE":"070"
+		}
+		,
+		{
+		"state":"IL",
+		"ZONE":"102"
+		}
+		,
+		{
+		"state":"IL",
+		"ZONE":"060"
+		}
+		,
+		{
+		"state":"IL",
+		"ZONE":"054"
+		}
+		,
+		{
+		"state":"IL",
+		"ZONE":"080"
+		}
+		,
+		{
+		"state":"IL",
+		"ZONE":"044"
+		}
+		,
+		{
+		"state":"IL",
+		"ZONE":"079"
+		}
+		,
+		{
+		"state":"IL",
+		"ZONE":"072"
+		}
+		,
+		{
+		"state":"IL",
+		"ZONE":"101"
+		}
+		,
+		{
+		"state":"IL",
+		"ZONE":"061"
+		}
+		,
+		{
+		"state":"IL",
+		"ZONE":"046"
+		}
+		,
+		{
+		"state":"IL",
+		"ZONE":"078"
+		}
+		,
+		{
+		"state":"IL",
+		"ZONE":"074"
+		}
+		,
+		{
+		"state":"IL",
+		"ZONE":"076"
+		}
+		,
+		{
+		"state":"IL",
+		"ZONE":"083"
+		}
+		],
+		"StormBased": {
+		}
+		}
+	]
+}
